@@ -8,7 +8,7 @@
 	},
 	"id": "tails1154.splitgdpsdl",
 	"name": "SplitGDPSDL",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "tails1154",
 	"description": "Adds a button on the main menu to go to the SplitGDPS demon list",
 	"dependencies": {
